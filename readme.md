@@ -1,3 +1,9 @@
+# Authors microservice
+
+Handles authors CRUD logic (as a microservice).
+
+Part of Udemy Lumen Microservices course
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
